@@ -1,0 +1,1030 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gospel advice to godly builders: for the pulling down of Babel, and the building up of Sion. For the most part written in three letters, to be communicated to the Reverend Assembly of Ministers in Westminster. By the unworthiest of all the Gospel ministers, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77293</idno>
+            <idno type="STC">Wing B4325</idno>
+            <idno type="STC">Thomason E475_37</idno>
+            <idno type="STC">ESTC R205459</idno>
+            <idno type="EEBO-CITATION">99864832</idno>
+            <idno type="PROQUEST">99864832</idno>
+            <idno type="VID">117064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117064)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gospel advice to godly builders: for the pulling down of Babel, and the building up of Sion. For the most part written in three letters, to be communicated to the Reverend Assembly of Ministers in Westminster. By the unworthiest of all the Gospel ministers, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117064:1" rendition="simple:additions"/>
+            <p>GOSPEL ADVICE TO GODLY BUILDERS: For the pulling down of BABEL, and the building up of SION.</p>
+            <p>For the moſt part written in three LETTERS, To be communicated to the <hi>REVEREND ASSEMBLY</hi> OF MINISTERS IN <hi>WESTMINSTER.</hi>
+            </p>
+            <p>By the unworthieſt of all the Goſpel Miniſters, JOHN BRAYNE.</p>
+            <q>
+               <bibl>
+                  <hi>Malachy 3.3.</hi>
+               </bibl>
+               <p>He ſhall ſit as a refiner and purifyer of ſilver: and he ſhall purifie the ſons of Levi, and purge them as gold and ſilver, that they may offer unto the Lord an offering in righteouſneſſe.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117064:2"/>
+            <head>TO THE RIGHT HONORABLE The LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Right Honorable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>Od having made you great among the People, in the great intruſt<g ref="char:EOLhyphen"/>ments, mercies, and deliverances he hath lent you, expects a great return of all from you in your doing good to his Saints, and exalt<g ref="char:EOLhyphen"/>ing h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſervice in the Land: and here I beſeech you in all humi<g ref="char:EOLhyphen"/>lity to have eſpeciall care, that no power by Your Authority be ſet over the Fa<g ref="char:EOLhyphen"/>mily of God other then what God hath ſet up of himſelf; And I deſire you to examine the foundation layed for the Presbyterian Government, and I ſuppoſe there will appear ſanctineſſe, and not ſufficiency from the Word to uphold it. The fear of God, and deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of your eternall wel-being, move me to mind you of the Covenant You and the People of God have made to God in the Land, and that in the matter of his worſhip, that it ſhall be according to the Word as near as may be. Now I preſume in this ſmall enſuing Treatiſe your Honors may ſee, a Reformation may be made for nearer to the Goſpel rule, then I conceive any is yet made; And then not onely to God, but to Gods people alſo in the ſame thing on which ground they thought their greateſt loſſe would be their greateſt gain, in failing whereof, the Lords peoples expectations dye, and hopes fail within them. And laſtly, I preſume to preſent this to your Honors conſideration, that untill you finde a way nearer to the Goſpel-pattern then Presbytery is, I fear you will finde there will be but little peace in the Land: the foundation whereof muſt be layed in God, or it will not be good to you, nor thoſe that love and ſerve You. Thus beſeeching you to try the truth, and truſt no man, and to ſet up Chriſt among us, as the Goſpel ſets out the way to ſet him up by onely, then the People ſhall be happie, and You high, and your Memory bleſſed in the generations to come. For all which,</p>
+            <closer>
+               <signed>
+                  <hi>The unworthy, but willing Servant in the ſervice of the Goſpel, prays to be heaped on You:</hi> JOHN BRAYNE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117064:3"/>
+            <head>To you my Reverend Brethren of the <hi>ASSEMBLY.</hi>
+            </head>
+            <p>LEt it not ſeem ſtrange to you, that ye ſee that made publick which was ſought earneſtly at your hands to have been determined in private, becauſe in my ſe<g ref="char:EOLhyphen"/>cond and third Solicitation I received this full Anſwer from a Reverend Friend, and one of your Members, that the Aſ<g ref="char:EOLhyphen"/>ſembly will not take that which is once concluded into a ſe<g ref="char:EOLhyphen"/>cond conſideration upon any private motion. In which caſe I think it my dutie not to forbear the making of it publick for the Truths ſake, as in the difference between <hi>Peter</hi> and <hi>Paul Galat.</hi> 2.5. And then ſecondly, if I did come up to the Aſ<g ref="char:EOLhyphen"/>ſembly to inquire into the Truth of the Propoſitions, I ſhould but loſe my labour; ſo that there remains but this on<g ref="char:EOLhyphen"/>ly way for me to diſcover the Truth, that it be made publick for all to judge, and ſee how weightie and neceſſarie a thing it is theſe things ſhould be re-debated and conſidered of in love, the things queſtioned being the ſubſtantials not of go<g ref="char:EOLhyphen"/>vernment onely, but worſhip alſo. Thus praying God to di<g ref="char:EOLhyphen"/>rect You to do what is according to his will, and diſcover to you your failings therein, I reſt,</p>
+            <closer>
+               <signed>Your unworthy fellow-Labourer in the Goſpel, <hi>JOHN BRAYNE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117064:3"/>
+            <head>To the godly and faithfull READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the reading this little Treatiſe, I deſire thee to obſerve, that the things contained in the greater Letter were not ſent in the Epistles ſent to be communicated to the Aſſembly, but are added to make things more full and clear unto thee; I thought good to acquaint thee that for divers Months ſince I have finiſhed a brief Treatiſe concerning the practiſe of the Primitive Church in government, and how it fell by degrees, and how it may be ſet up in this Kingdom, as my labours in my publick Miniſtery, preaching foure or five times a week, will give me leave; but the maintainance allowed me by Authority being detained from me, I am diſabled for that and other works of like or greater concernment, which God in his time, if it be for the promoting of his glory, will give being unto. In the mean time I commend thee to God, and the Word of his grace, be<g ref="char:EOLhyphen"/>ſeeching thee in thy prayer to remember <hi>Sion,</hi> and thoſe Saints that ſit by the waters of <hi>Babylon,</hi> who have hanged up their Lutes on the willow Trees, not knowing how to ſing the Lords ſong in a ſtrange way; and that thou pray for, and prepare thee, for the bringing forth the corner ſtone, that thou give up unto it cryes of grace, and ſhew thy love to God thy Lord, that thou may be thought worthy to be called to the marriage of the Lambe now ready to be amongſt us, in which God ſhall turn the ſorrow of all his Saints into ſweet and ſaving joy; which ſhall make bleſſed the eye that ſeeth it, and the ear that heareth it: ſuch is the happineſſe God, our God, is about to reveal in this our Land; in which our Earth and Heavens ſhall be new, and Sea ſhall be no more. In the heaps of all which happineſſe the Lord make thee happie, and in that which is to come.</p>
+            <closer>
+               <signed>So prayeth thy Servant in the Goſpel, John Brayne.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117064:4"/>
+            <head>To all the MEMBERS of the Reve<g ref="char:EOLhyphen"/>rend Aſſembly of DIVINES at <hi>Weſtminſter</hi> be grace and wiſdom multiplyed, to the inabling you to the right underſtanding of all Truths.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Reverend and beloved:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>N diſcharge of the diſpenſation of the Goſpel of God committed to my truſt, I deſire, that both you and I may comfortably meet together before the Lord Jeſus Chriſt at his appearing, and be able to deliver up our accounts at laſt of our ſtewardſhip with joy, and not with ſorrow at that day; and that we may keep our Covenant made with God and his People in making ſuch a Reformation in the Church as ſhall be according to the Word of God. Now I beſeech you leane to an examination of your Propoſitions propoſed to the high Court of Parliament, and examine you them again, and what in them ye find not to be agreeable to the Word, I deſire you in the Name of our Lord Jeſus Chriſt to correct for the truth, and for the Church ſake, and for the comfort of your own ſouls.</p>
+                  <p>Firſt, I deſire you to examine all thoſe particulars concerning the Evangeliſt as ſtated in my Letter, dated <hi>Aug.</hi> 21. <hi>The Evangeliſt being the firſt ordinary Church Officer and Office.</hi>
+                  </p>
+                  <p>In the Propoſitions the Evangeliſt is placed before the Prophet, which is indeed an extraordinary monſter, <hi>and the other but an ordinary.</hi>
+                  </p>
+                  <p n="1">1. Which is contrary to the form of ſound words, <hi>Epheſ.</hi> 4.11. Apoſtles, Prophets, Evangeliſts, Paſtors.</p>
+                  <p n="2">2. Againſt the expreſſe command of Chriſt, who commands us to <hi>hold faſt the form of ſound words:</hi> 2 <hi>Tim.</hi> 1.13. God requires we ſhould be faithfull in little as well as in much.</p>
+                  <p n="3">3. It is ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inſt the expreſſe order and inſtitution of Chriſt, <hi>to the ſubverſion of the Goſpel government;</hi> he having inſtituted Prophets to be ſecond<g ref="char:punc">▪</g> Evangeliſt to be of the third, <hi>Who is now taken from his fellows, and placed above his betters.</hi> Luk. 14.8, 9, 10.</p>
+                  <p n="4">4. If you do it not, you will all lye lyable to be excepted againſt;
+<pb n="3" facs="tcp:117064:4"/> nor ſhall we who have covenanted to make a Reformation accor<g ref="char:EOLhyphen"/>ding to the Word of God, keep our Covenant with God we have made with him, if I and you in our ſeverall places indeavour it not, nor with Gods people.</p>
+                  <p n="2">2 <hi>Thing pertaining to the Evangeliſt conſiderable in the Propoſitions is, that they are ceaſed with the Apoſtles and Prophets, the Prophets and Apoſtles ceaſe in their perſonall preſence, but their miniſtery there ſpoken of ceaſeth not in the Church,</hi> Epheſ. 4.13. <hi>They are to be untill we all come to the unity of the faith which is to the end. For as the Jews had</hi> Moſes <hi>and the Prophets in their Church, ſo have we the Apoſtles and the Prophets in our Church,</hi> Luke 16.29. <hi>compared with</hi> Epheſ. 2.20. <hi>As for the Evangeliſt the Officer in queſtion, hath been thruſt out a long time out of the Church by Antichriſt, ha<g ref="char:EOLhyphen"/>uing had no manner of miniſtery therein at all a long time, and ſo of theſe three onely and indeed ceaſeth.</hi>
+                  </p>
+                  <p n="3">3 Thing is that the Evangeliſt is an extraordinary office, againſt which in my Letter was propoſed, 1 <hi>Cor.</hi> 12.28. <hi>God hath ſet ſome in the Church, firſt Apoſtles, ſecondarily Prophets, thirdly Teachers.</hi>
+                  </p>
+                  <p>That the whole Church Miniſtery is contained in theſe, I think is undenyable; yet leſt it ſhould be thought a conjecture onely, I deſire you to ſee <hi>Calvin,</hi> whoſe judgement I know is highly eſteemed of you, part of his words are theſe. <hi>Non recenſet omnes ſpecies, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> enim opu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> fuit, tantum enim voluit exempla proponere quarto capite ad Epheſios ple<g ref="char:EOLhyphen"/>nior eſt enumeratio munerum quae ad perpetuae Eccleſiae regimen requiruntur.</hi> But to the text.</p>
+                  <p n="1">1. In that he ſaith, firſt Apoſtles, he ſheweth that of this order or number none are to be leſſe then Apoſtles; and among whom, none are to be greater or leſſe then others.</p>
+                  <p n="2">2. Between the firſt and the ſecond is no <hi>medium,</hi> and therefore no place for an Evangeliſt to be placed in. In which ſecond order onely Prophets are placed, among which none are greater or leſſe then other in the Church.</p>
+                  <p n="3">3. Between the ſecond and the third is no <hi>medium, Middle number or place</hi> to place the Evangeliſt in, by which he may be greater then the Paſtor or Teacher, though leſſe then a Prophet; but he muſt be of the third order, that is, of the order of Teachers; among whom there is nothing extraordinary but an equality in office, as the Apo<g ref="char:EOLhyphen"/>ſtles were all equall in their Apoſtolicall office, though not in gifts equall.</p>
+                  <pb n="4" facs="tcp:117064:5"/>
+                  <p>
+                     <hi>Objection</hi> that can be made againſt this onely is, that the Evange<g ref="char:EOLhyphen"/>liſt is not named.</p>
+                  <p>
+                     <hi>Reſp.</hi> Nor is the Paſtor named, yet no man will deny him to be underſtood, and comprehended here under.</p>
+                  <p n="2">2. He ſetting down the whole extraordinary Miniſtery above Teachers in the Apoſtles and Prophets, is it to be thought he ſetting down the Miniſtery God hath ſet up in the Church, he would leave out any of the ordinary? therefore ſurely comprehended them all under this word <hi>Teachers.</hi>
+                  </p>
+                  <p n="1">1. Shewing all Church Miniſters beſides Apoſtles and Prophets under the Goſpel government are Teachers onely.</p>
+                  <p n="2">2. They are of one rank or order, to ſhew you that one had no<g ref="char:EOLhyphen"/>thing more extraordinary in him then the other.</p>
+                  <p n="3">3. The word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, he here ſpeaking of every particular Churches Miniſtery, ſhews that there is, and ought to be, in every compleat Church more Teachers then one; and that it ought not to be governed or miniſtred unto by one onely man; God ordained not three for one to do it: <hi>Fruſtra fit per plura quod fieri poteſt per paucio<g ref="char:EOLhyphen"/>ra.</hi> Thus far the Letter dated, <hi>Aug.</hi> 21.</p>
+                  <p>Object. <hi>Have we not the Miniſtry of Evangeliſts as well as Apoſtles in the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſpels of Mark and Luke?</hi>
+                  </p>
+                  <p>Reſp. <hi>The title</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>I take to be humane onely. Luke cals his Hiſtory</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>onely, and not</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p n="2">2. <hi>Nor know I why it ſhould be called G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſpel more then</hi> Paul's <hi>Epiſtles: the Lord is as evangelically held out in them, as in the Hiſtories; and the Apo<g ref="char:EOLhyphen"/>ſtle,</hi> Rom. 2.16. <hi>cals his Epiſtles, Goſpel. So that</hi> Tertius, Rom. 16.22. <hi>was no leſſe an Evangel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt in writing the Epiſtle to the Romanes, then</hi> Luke <hi>by his writing the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtory of our Lord.</hi>
+                  </p>
+                  <p n="3">3. <hi>No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> was the Evangeliſts work, writing, but Teaching:</hi> Matthew <hi>and</hi> John <hi>were not Ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngeliſts by writing their Hiſtories of Chriſt, but Hiſtori<g ref="char:EOLhyphen"/>ans, differing from</hi> Mark <hi>and</hi> Luke, <hi>in that they ſaw the things done.</hi> Luke <hi>wrote them from the twelve, or ſome of the ſeventy; which of them the Scrip<g ref="char:EOLhyphen"/>ture relates not, onely ſaith they were faithfull witneſſes.</hi>
+                  </p>
+                  <p n="4">4. Philip <hi>who wrote no Evangelicall Story, is called Evangeliſt,</hi> Act. 21.8. Luke <hi>that wrote it is not called an Evangeliſt, but a Phiſitian:</hi> 2 Tim. 4.5. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>The Dutch, Doet dat werck eens Evangeliſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> predikers.</hi>
+                  </p>
+                  <p>Object. <hi>The former Treatiſe</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>therefore</hi> Luke <hi>making it, it made him an Evangeliſt.</hi> Act. 1.1.</p>
+                  <pb n="5" facs="tcp:117064:5"/>
+                  <p>Reſp. <hi>All that he made of it is:</hi>
+                  </p>
+                  <p n="1">1. <hi>That whereas he received of ſeverall men ſeverall paſſages of the Hiſtory of Chriſt, he p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t them in order the firſt part firſt, the laſt laſt.</hi> Luk. 1.1.2, 3.</p>
+                  <p n="2">2. <hi>The word</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ects e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>cially in a buſineſſe, the manufactor<g ref="char:EOLhyphen"/>ſhip of th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re was w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ng onely.</hi>
+                  </p>
+                  <p>
+                     <hi>I may exceed h<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> having ſpoken more largely in a Tract called, The Smoak of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>red by the light of the Scriptures, printed, I forbear.</hi>
+                  </p>
+                  <p>The ſecond Generall w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e of to be communicated to the Aſſem<g ref="char:EOLhyphen"/>bly, was the Contents of a better <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ated <hi>Sept.</hi> 5. 1648. concerning the Paſtor, in the Paſtors ſection; the thing queſtioned was the uſe and application made <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Jam.</hi> 5.14, 15. Scrip. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Let him call for the Elders of the Church, and let them pray over him. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ral per lui, Beza pro eo.</hi>
+                  </p>
+                  <p>The words in the Propoſitions, the office of the Elder, that is, the Paſtor is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay for the ſick in private, to which a bleſſing is eſpeci<g ref="char:EOLhyphen"/>all, promiſed.</p>
+                  <p n="1">1. I commend to your conſideration, if this be not a taking from the words of this book con<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ied of God, <hi>Rev.</hi> 22.19. <hi>If any ſhall take away from the words of the book of this Prophe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e, God ſhall take away his part out of the book of life, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the holy City, and from the things written in this b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>k:</hi> yea in this is a taking away from the letter, and from the ſence of the Scripture which is all the taking away there meant, as I conceive.</p>
+                  <p n="2">2. In this, all the Church Elders are reduced to one, <hi>That ſo we may ſet up a government in the Church of our own by one, and pull down Jeſus Chriſts, which is by a combination of Church Miniſtery by Evangeliſts, Pa<g ref="char:EOLhyphen"/>ſtors, Teachers.</hi>
+                  </p>
+                  <p n="3">3. In particular, the Paſto<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the El<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> you inveſt wholly and alone with this miniſteriall office, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> by the expreſſe words of the Scripture one Church Miniſter i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not more intereſſed in it then ano<g ref="char:EOLhyphen"/>ther, but all joyntly, and equally.</p>
+                  <p n="4">4. The work cannot <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſingly in a Goſpel way; the ſick is commanded to ſend for more then one, and more then one are com<g ref="char:EOLhyphen"/>manded to pray for him.</p>
+                  <p>The p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omiſe it annex<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to a duty when done onely according to Gods w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, and in obedience <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o his command; if we fall, and that wil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ully of our part, we dep<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſelves wholly of the comfort of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ordinance, and the grace o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God added thereunto, faith being
+<pb n="6" facs="tcp:117064:6"/> not able to move an hair beyond the help it hath from the Word of God inabling him.</p>
+                  <p>
+                     <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ject.</hi> We have but one Elder, that is, the Paſtor.</p>
+                  <p>
+                     <hi>Reſp.</hi> Where is the Church then to which the ſick are ſent of God for this comfort, in which are to be Elders in a Church combinati<g ref="char:EOLhyphen"/>on, Teaching the people in health, and praying for them in ſicknes.</p>
+                  <p>To this next is conſiderable that in the Propoſitions, it is ſaid, that to the Paſtors Prayer, eſpecially is promiſed a bleſſing.</p>
+                  <p>The Scripture ſaith, <hi>Let them pray: and after the prayer of faith ſhall ſave the ſick, that is, their prayer made in faith.</hi> I think it to be beyond the power of man to make a bleſſing thus, promiſed to the whole Church Miniſtery, or many ordinarily to belong to one: nor do I think that ordinance as done by one, to be done in a Church way, or according to the rule of the Goſpel <hi>in this place.</hi>
+                  </p>
+                  <p>
+                     <hi>Object.</hi> We intend the Teacher alſo to be here meant, though the Paſtor be onely named.</p>
+                  <p n="1">1. <hi>Reſp.</hi> If that be granted, I ſuppoſe you yet come ſhort of the truth; the word in the text for Elders, and the verb <hi>for let them pray,</hi> being both formed in the plurall, and not in the duall number, compared with the generall ſcope of the other Scriptures, proves a plurality of Elders to be in the Church, and not a duality.</p>
+                  <p n="2">2. If the Doctor had been underſtood by you to <hi>be intereſſed herein,</hi> you would have cited this Scripture of <hi>James</hi> in his Section as well as the Paſtors, and applyed the duty to him, as you did, 1 <hi>Tit.</hi> 9. <hi>Eph.</hi> 4.11. quoted and applyed by you to both Paſtor and Teacher in both Sect.</p>
+                  <p n="3">3. I ſuppoſe you would not have ſo particularly inveſted the Pa<g ref="char:EOLhyphen"/>ſtor with it as your expreſſions uſed imply you to have done, ſaying, the Elder, that is, the Paſtor. And ſo the Paſtor as if all but he had nothing to do with the duty, but were excluded.</p>
+                  <p>The Concluſion of this ſecond Epiſtle was this: God is my wit<g ref="char:EOLhyphen"/>neſſe I write theſe things unto you onely as moved thereunto by love and fear; fear towards God, and love to you and the Goſpel; and not of contention: for who am I that I ſhould contend with the Learning, Ability, and Parts of the Aſſembly, but in obedience to Gods command. <hi>Levit.</hi> 19.17. <hi>Thou ſhalt not hate thy brother in thy heart: thou ſhalt in any wiſe rebuke thy neighbour, and not ſuffer ſin upon him:</hi> and in what wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e can it be more Chriſtianly done then in private wri<g ref="char:EOLhyphen"/>ting, which I deſire may be as Chriſtianly taken, that Chriſt Jeſus
+<pb n="7" facs="tcp:117064:6"/> in all may be glorified<g ref="char:punc">▪</g> and the truth come to be diſcovered, to the edifying of the Church in love; and I ſhall gladly wait to do you all the ſervi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> I can in Chriſt: and reſt,</p>
+                  <closer>
+                     <signed>Yours, <hi>John Brayne.</hi>
+                     </signed>
+                     <dateline>
+                        <date>
+                           <hi>Sept.</hi> 5. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>We c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the third G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall, and the Particulars of the third Letter.</p>
+            <p n="1">1. I deſire you to conſider where Catech<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, <hi>as by you applyed to</hi> Hebr. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. and placed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ors Section, be not the Teachers proper miniſteriall work, teaching the beginnings of Chriſt; which together with Baptiſme I ſuppoſe is that proper work which ſolely doth conſtitute th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Teacher in the Church, he being the firſt and the beginner of the Miniſtery.</p>
+            <p>
+               <hi>Catech<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing by Q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtion and Anſwer was exerciſed without the Church among the Catecumeni onely, but the preaching the beginnings of Chriſt in the Church to the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fants, as in this</hi> Hebr. 5.12. <hi>was onely the Dr. miniſtry.</hi>
+            </p>
+            <p n="1">1. This appears in the Scriptures holding out the whole Goſpel Adminiſtrators, <hi>Epheſ.</hi> 4.11. beginning with the Apoſtles he is laſt, beginning in the Miniſter <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is firſt 2 <hi>Tim.</hi> 3.16. Scripture is profit<g ref="char:EOLhyphen"/>able for doctrine, and reproof, &amp;c. So that he begins with doctrine, and ends with perfection. As a man is firſt a childe, and after a man: ſo firſt the doctrine for children, and then for men.</p>
+            <p n="2">2. Scripture 2 <hi>Col.</hi> 7. rooted built up in him, and eſtabliſhed in theſe, are held out the divers of the Spirit: 1 <hi>Cor.</hi> 12.4. there is a di<g ref="char:EOLhyphen"/>verſity of gifts, there is the ſpirits part. In this again is intimated the diverſity of miniſtrings, <hi>ver.</hi> 5. which the Lord Chriſt inſtituted in the Church; and then the diverſity of operations which God by theſe ſeverall Miniſters worketh, <hi>v.</hi> 6. The firſt of which is Rooting, which is done by preaching fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dament <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> children in grace, and not age onely. Much more may be p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſecuted you concerning this.</p>
+            <p>But tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Rom.</hi> 2.20. clear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, where the Apoſtle cals the Teacher <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>which is underſtood onely and done in a carnall manner <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng us, and not according <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Chriſt.</hi>
+            </p>
+            <p>For Anti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uity, I now on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly trouble you with that of <hi>Ambroſe</hi> on <hi>Epheſ</hi> 1.1 who appreh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing a neceſſity, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have all the Goſpel Mi<g ref="char:EOLhyphen"/>niſtry in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould have in ſome way though never ſo corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>which cannot be by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> means done <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y us:</hi> ſaith of the Doctor. <hi>Magiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> iſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mpoſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt, &amp; verberant inqui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> which is, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Teach<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Exorciſts, becauſe they quiet <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But after to be<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> purpoſe.</p>
+            <pb n="8" facs="tcp:117064:7"/>
+            <p>
+               <hi>Sive hi qui lectionibus imbuendi infantes ſolebant imbuere ſicut mos Ju<g ref="char:EOLhyphen"/>deorum eſt quorum traditio tranſitum fecit ad nos quae per negligentiam ob<g ref="char:EOLhyphen"/>ſolevit.</hi> Or thoſe (ſaith he) who were wont to initiate children ini<g ref="char:EOLhyphen"/>tiated by reading, as the cuſtome of the Jews is, whoſe tradition he hath cauſed to be paſſed over to us Gentiles, which by negligence is grown out of uſe.</p>
+            <p n="1">1. This could not be meant of the Catechiſt, that was not out of uſe in his time, nor after.</p>
+            <p n="2">2. If the Doctors Miniſtry in <hi>Ambroſe</hi> time were antiquated, who can ſhew in whoſe time ſince it was reſtored to the Church again?</p>
+            <p n="4">4. Paſſing by the other leſſer things in your Propoſitions, I ſhall now onely trouble you with two generall Poſitions of yours, con<g ref="char:EOLhyphen"/>tained in the Doctors Section. In which you ſay,</p>
+            <p n="1">1. That the differing gifs may meet in, and accordingly be ex<g ref="char:EOLhyphen"/>erciſed by one and the ſame Miniſter.</p>
+            <p n="2">2. That where is but one Miniſter in a particular congregation, he is to perform as he is able the whole Miniſtry.</p>
+            <p>
+               <hi>All which are onely to hold up Parochiall Congregations againſt the way of God; and I dare affirm, that while they ſtand, the way of God can never be ſet up among us according to the Goſpel of God, nor to edification.</hi>
+            </p>
+            <p n="1">1. I deſire you to try if ever any Apoſtle ſingly and ordinarily in any one Church whatſoever, did the whole work of the Miniſtry alone: <hi>Which if they had done it by an extraordinary call, were no warrant for us without ſome expreſſe command.</hi>
+            </p>
+            <p n="2">2. Where the Scriptures naming fellow-labourers, co-workers, and the like, with the Apoſtles joyning of others with them in their Epiſtles prove not the contrary.</p>
+            <p n="3">3. The Apoſtles, as in <hi>Peter, Act.</hi> 10.48. he commanded them to be baptiſed; <hi>which ſhews the Apoſtles did not baptiſe when a Doctor was preſent that ordinarily wrought with him in the miniſtry of the Goſpel: and if at any time he ſhould have done it in the preſence of his fellow helpers, it would be now that the holy Ghoſt fell on them, and that it was to baptiſe the firſt con<g ref="char:EOLhyphen"/>verted Gentiles, but all theſe move him not to do irregularly in the Church. This appears in Paul alſo,</hi> 1 Cor. 1.14.17. <hi>v.</hi> 14. <hi>I baptiſed none of you but Criſpus and Gaius.</hi>
+            </p>
+            <p n="1">1. <hi>The Apoſtle was at Corinth the time of gathering that Church.</hi>
+            </p>
+            <p n="2">2. <hi>In the gathering of it he baptiſed few onely of that famous Church: now without Baptiſme they could not be of the Church, which clearly proves Paul had ſome other miniſtring with him to the conſtituting of the Church there,
+<pb n="9" facs="tcp:117064:7"/> unleſſe we ſay <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e were baptiſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or three families in that City.</hi>
+            </p>
+            <p n="3">3. Ver. 17. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ewe <hi>Paul</hi> had his miniſtry there, but plainly tels us it was not bapt<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng but evangelizin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as a work diſtinct from it.</p>
+            <p n="4">4. Should not we now in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing all, do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore then ever any Apoſtle did do in the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch ordinarily; <hi>Are we more able then they? ſhall we exceed our pattern? or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we walk by an other rule then the Goſpel? And if ſo, it were good to c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſider whoſe R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le we walk by, and what warrant we have for it.</hi>
+            </p>
+            <p>Compare 2 <hi>Cor.</hi> 1.19. 2 <hi>Cor.</hi> 2.15, 16. the Son of God Jeſus Chriſt who was preached amongſt you by us, even by me, and <hi>Silvanus,</hi> and <hi>Timotheus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to God a ſweet ſavour, <hi>ver.</hi> 16. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p n="1">1. <hi>It may be applyed to a particular man, what one man is fit for theſe things which we three do: is there any dares do that alone that Paul himſelf dares not?</hi> But I rather do conceive the Apoſtle means of every parti<g ref="char:EOLhyphen"/>cular miniſtry no man is fit for it, or elſe the aggravation were not ſo conſiderable.</p>
+            <p>Concluſion hence is, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſince the Apoſtles had any call to officiate all the ſeverall Church offices together; and therefore none do or may officiate them by any warrant from the Goſpel.</p>
+            <p>We come to the Scriptures ſet down in the Doctors Section, brought to prove a ſingle miniſtry, &amp;c. <hi>Rom.</hi> 12.6, 7, 8. twice quoted. 1 <hi>Cor.</hi> 12.4, 5, 6. <hi>Epheſ.</hi> 4.11. 1 <hi>Cor.</hi> 12.28. 1 <hi>Pet.</hi> 4.10. Theſe Scrip<g ref="char:EOLhyphen"/>tures make clear againſt your ſingle Miniſtry, as after all I ſhall, the Lord aſſiſting me, ſhew you how. Others there are ſet down which ſeem to prove it, but I ſuppoſe rightly underſtood, <hi>prove nothing leſſe.</hi>
+            </p>
+            <p n="1">1. Scrip. 1 <hi>Tit.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 <hi>Holding faſt the faithfull word as he hath been taught, that he may be abl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> doctrine both to exhort, and convince the gain<g ref="char:EOLhyphen"/>ſayers.</hi>
+            </p>
+            <p>This text twice cited in this Section, and proves little, it reſpects not the miniſtry as exerciſed in the Church among beleevers, but ſhews what ſufficiency is required to be in a Miniſter, having to do with adverſari<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the truth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he muſt hold the truth againſt thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould take i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom him, and be able, maintain it againſt thoſe gainſay it be ſound doctrine, that is, by the Word, or ſound and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeny able concluſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there from, by which he may be able to convince <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> opp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth.</p>
+            <p n="2">2. Scripture is 1 <hi>Tim.</hi> 6.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. In this Epiſtle I ſuppoſe <hi>Timothy</hi> was wrote t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as to a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> onely; which place <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſupplyed miniſtring
+<pb n="10" facs="tcp:117064:8"/> to the Theſſalonians, <hi>Paul, Silvanus, Timothy</hi> working tog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther. 1 <hi>Theſ.</hi> 1.1. compared with 2 <hi>cap.</hi> 1. ye know our entrance in unto you.</p>
+            <p>1 Tim. 6.2. <hi>And they that have beleeving maſters, l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them not deſpiſe them, becauſe they are brethren: but rather do them ſervice, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they are faithfull, and beloved, partakers of the benefit: Theſe things <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hort.</hi>
+            </p>
+            <p>That that is brought hence to prove a ſingle Miniſtry is this, that it is ſaid, <hi>Theſe things teach and exhort;</hi> and that Teach<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g, the Doctors office, and Exhorting, the Paſtors miniſtry, are joyned both together, and are injoyned one man.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Here is exhortation indeed added to teaching, but is commanded onely in a particular caſe.</p>
+            <p n="2">2. It is limited to theſe things, and proves it was not proper to the Teacher in other caſes and things to uſurp the Paſtors office, in uſing the publick miniſteriall exhortation of the Paſtor. <hi>A particu<g ref="char:EOLhyphen"/>laribus non datur concluſio.</hi> So that if in a particular caſe as this we conclude with the Philoſopher, we muſt conclude againſt the Pro<g ref="char:EOLhyphen"/>poſition.</p>
+            <p n="3">3. It was not ſuch as the Paſtors exhortation was; the Paſtors was to exhort good men to be better, as 2 <hi>Pet.</hi> 1.4.8. to a growth and in<g ref="char:EOLhyphen"/>creaſe of godlineſſe; this was to take men from evill to good; and conſiſted in matter of morality, and ſo rightly fitted the Doctors miniſtery, it pertaining to work repentance from dead works, <hi>Heb.</hi> 6.</p>
+            <p n="4">4. The defect was in the Teachers ſociety, and may be God ſtirred him up to this, who thought it the Paſtors duty onely to exhort in this as in all other caſes.</p>
+            <p n="3">3. Scripture brought to prove a ſingle Miniſtery, 2. <hi>Tim.</hi> 4.2. twice quoted: <hi>Preach the Word, be inſtant in ſeaſon, and out of ſeaſon, reprove, re<g ref="char:EOLhyphen"/>buke, exhort with all or in all long-ſuffering and doctrine.</hi>
+            </p>
+            <p n="1">1. This Epiſtle I ſuppoſe to be written to him as Paſtor, who, I ſuppoſe, miniſtred that part of miniſtery with <hi>Paul</hi> at Epheſus, <hi>Act.</hi> 19.22. <hi>which was another time then that,</hi> 1 Tim. 1.3. <hi>ſpeaks of there Paul bids him ſtay here, he ſends him forth; and its clear was the laſt Epiſtle be wrote, and immediatly going before his death.</hi>
+            </p>
+            <p n="2">2. <hi>Tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy</hi> himſelf had not exerciſed the full Miniſtery, for <hi>ver.</hi> 5. following, <hi>Timothy</hi> is bid do the work of an Evangeliſt, and bear the full miniſtery. <hi>Now it is to be obſerved, that the Paſtor aſſuming the Evange<g ref="char:EOLhyphen"/>liſts place of miniſtery, the Doctor was choſen Paſtor, and the Evangeliſt did no more the work of a Paſtor.</hi>
+            </p>
+            <p n="3">3. He then exerciſed the Paſtors part of the Miniſtery onely, the
+<pb n="11" facs="tcp:117064:8"/> words before are but an exh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtation <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r preaching an ordinary word given, all publi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xerciſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bounded and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imited by that which followeth, wh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws wh<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> is to preach, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>proof <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xhort</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> words followin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſcribe the manner of doing <hi>it, as in the ſig<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ve</hi> with all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g and doctrine: doctrine here ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hortation ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be taken from the Word onely that it may av<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l.</p>
+            <p>
+               <hi>Laſtly, preach was to diſtinguiſh private reproof from publick and paſtorall.</hi>
+            </p>
+            <p>The onely Scripture you have ſet down to prove it by, is that of 1 <hi>Cor.</hi> 14.3. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hefieth, ſpeaketh to edification, and exhortation, and comfort.</hi> In which ind<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d are all the diſtinct operations of the Mini<g ref="char:EOLhyphen"/>ſtery. But,</p>
+            <p n="1">1. The Miniſtery though conſiſting of ſeverall parts, is ſpoken of as one in the Scripture, though the miniſtery of Apoſtles differ from that of Prophe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that of Prophets from that of Evangeliſts, &amp;c. yet <hi>Act.</hi> 6.4. <hi>We will give our ſelves continually to prayer, and the miniſtery of the word:</hi> he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the miniſtery of the word is ſpoken of as one particular work onely, when the Apoſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d at ſeverall times and places all the parts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miniſtery.</p>
+            <p n="2">2. As the miniſtery, ſo the Miniſters are ſaid to be one: 1 <hi>Cor.</hi> 3.6.8. <hi>v</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve planted, Apollo watered:</hi> ver. 8. <hi>Now he that planteth, and he that watereth, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now, they are o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>
+                  <g ref="char:V">Ʋ</g>num miniſter<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m ſed duo mi<g ref="char:EOLhyphen"/>niſtri.</hi>
+            </p>
+            <p n="3">3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in this place is <hi>conjunctio completi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and is put for <hi>pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde,</hi> ſignifying and then the being thus to be read, He that propheſieth doth it to edifie ation, and then to exhortations and after it hath ef<g ref="char:EOLhyphen"/>fected its w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k ſufficiently, then to conſolation.</p>
+            <p n="4">4 <hi>Ver.</hi> 6. following expounds it clearly, ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th the Apoſtle, What ſhall I profit you except I ſpeak by revelation as a Prophet, by know<g ref="char:EOLhyphen"/>ledge as an Evangeliſt, by propheſie as a Paſtor, by doctrine as a Teacher in an extraordinary <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e having a call to exerciſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all.</p>
+            <p n="1">1. Hence he joyns revelation an extraordinary with the ordinary.</p>
+            <p n="2">2. To ſhew <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>one by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ordin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y call may da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to do them, unleſſe he could do <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> extraordinary alſo as he could, or this is no pattern for any.</p>
+            <p n="5">5. This is held o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tion, <hi>v.</hi> 7. And even things without life giving ſc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, whet<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> except they give a diſtinction in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, how ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> piped or harp<g ref="char:EOLhyphen"/>ed: <hi>v.</hi> 8 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> an u<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rtain found, who ſhall pre<g ref="char:EOLhyphen"/>pare him, &amp;c.</p>
+            <pb n="10" facs="tcp:117064:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:117064:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p n="1">
+               <pb n="12" facs="tcp:117064:10"/>1. Here are three Inſtruments ſignifying this threefold Miniſtery, Pipe, Harp, Trump.</p>
+            <p n="2">2. They muſt have ſounds. <hi>Rom.</hi> 10.18.</p>
+            <p n="3">3. They muſt have diſtinct differing ſounds according to their differing Miniſtery; as now the Miniſtery is exerciſed, it is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own what is piped or harped.</p>
+            <p n="6">6. To ſay one may do all, is to confound the whol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> frame of that diſcipline Chriſt hath ſet up in his Church; and is againſt the many Scriptures which clearly hold out the differing miniſteries, and ſets Scripture againſt Scripture.</p>
+            <p>For Antiquity, I onely commend now unto you that of <hi>Tertullian,</hi> in his book, <hi>de exhortatione caſtitatis,</hi> a man that knew better the Go<g ref="char:EOLhyphen"/>ſpel diſcipline then any now living, he being about the yeer 200. when the Church had ſome purity in it: his words are theſe.</p>
+            <p>
+               <hi>Differentiam inter ordinem &amp; plebem conſtituit Eccleſia authorit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp; honor per ordinis conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſum ſanctificatus; adeo ubi non eſt Eccleſiaſtici <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dinis conſeſſus, &amp; Offers, &amp; Tinguis, &amp; Sacerdos es tibi ſolus: ſed ubi tres, Eccleſia eſt licet Laici unuſquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſua fide vivit, neceſt perſonarum accepti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> apud Deum quoniam non auditores legis juſtificantur à Deo ſed factores, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cundum quod Apoſtolus dicit. Igitur ſi babes jus ſacerdotis in temetipſo, ubi neceſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ha<g ref="char:EOLhyphen"/>beas etiam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>portet diſciplinam Sacerdotis, Digamus, Tinguis, Diga<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Of<g ref="char:EOLhyphen"/>fers, quanto magis Laico digamo Capitale eſt agere pro Sacerdote, cum ipſi Sacerdoti digamo facto auferatur agere Sacerdotem.</hi>
+            </p>
+            <p>Object. <hi>Sed neceſſitati indulgetur inquis.</hi>
+            </p>
+            <p>Reſp. <hi>Nulla neceſſitas excuſatur quae poteſt non eſſe.</hi>
+            </p>
+            <p>For the underſtanding of this (1.) the cauſe of it was from Gods forbidding the Prieſt under the Leviticall Prieſthood of having two wives; which he ſpiritually applyeth to the Miniſters of the Goſpel.</p>
+            <p n="2">2. The tearms are <hi>obſolet</hi> of <hi>Offers</hi> for the Evangeliſt, <hi>Tinguis</hi> the Teacher, <hi>Sacerdos</hi> the Paſtor.</p>
+            <p n="3">3. That in <hi>Tertullians</hi> time, Lay-men did uſurp the Miniſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he complains, <hi>De praeſcrip. Haeret.</hi> and ſo here.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>The ſence of <hi>Tertullian</hi> I apprehend to be this.</p>
+                  <p>The Authority of the Church makes the difference between the Mini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery and the People; and the honour is ſanctified by the Con<g ref="char:EOLhyphen"/>feſſion of the miniſtery; ſo as that where there is not a Conf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſion of Eccleſiaſticall order, the Evangeliſt, and Teacher, and Paſtor thou art by thy ſelf alone (that is, thou art not in, nor of any tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rch ſociety) but where theſe three are, there is a Church, though each
+<pb n="13" facs="tcp:117064:10"/> Laick lives by his own faith: nor with God is there any reſpect of perſons; for not the hearers of the Law are juſtified before God, but the doers, as the Apoſtle ſaith. If thou haſt therefore the right of a Paſtor in thy ſelf (that is by calling) as it is neceſſary, it behoves thee alſo to have the diſcipline of a Paſtor, and doing any thing of the Evangeliſt or Teachers miniſtery, thou art be<g ref="char:EOLhyphen"/>come the Prieſt having two wives: how much more capitall is it for a Laick to exerciſe ſeverall parts of the miniſtery, ſeeing it is capitall to the Prieſt himſelf, being for the like fact deprived of Paſtorſhip.</p>
+                  <p>
+                     <hi>Obj.</hi> But thou wilt ſay, it ſhould be yeelded to neceſſitie.</p>
+                  <p>
+                     <hi>Reſp.</hi> No neceſſity is excuſed by that which cannot be.</p>
+                  <p>Concluſion. Reverend and beloved Brethren, I the more ear<g ref="char:EOLhyphen"/>neſtly ſeek theſe things of you, becauſe the way of God clearly known and held out, will unite the ſpirits of Saints now ſtrange<g ref="char:EOLhyphen"/>ly divided, and procure the aſſiſtance of God to defend us and his truth, and give men incouragement to fight the Lords bat<g ref="char:EOLhyphen"/>tels againſt the Enemies of truth, and comfort them againſt ſuf<g ref="char:EOLhyphen"/>ferings; when otherway many may think they fight for the truth, and fight againſt it: much of all which lyeth in your hands to help. Which help, I, and our Lord Chriſt by me with the Saints call on you; for in doing whereof, you ſhall make your name a praiſe on the earth, and be called, The Reſtorers of the Lords paths to walk in, and the bleſſing of the Nation ſhall fall on you. Of which, and greater then all which, God make you fit for in your faithfull doing the work of the Lord ye ſit to do.</p>
+                  <closer>
+                     <signed>So prays your unworthy fellow Servant in the Goſpel. <hi>J. B.</hi>
+                     </signed> 
+                     <dateline>
+                        <date>
+                           <hi>Septemb.</hi> 12.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>But to the diſcovery of the myſtery that it may appear plain, to the ending of farther debates about this one main, and of all other moſt weighty work, by which the reſt are upheld.</p>
+            <p>
+               <hi>The words of the Propoſitions.</hi> The Lord having given divers gifts, and divers exerciſes according to thoſe gifts in the miniſtery of the Word, though theſe differing gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts may meet in, and accor<g ref="char:EOLhyphen"/>dingly be exerciſed by one, and the ſame Miniſter.</p>
+            <p>The queſtion is what is here underſtood by gifts: Here now that we may not be miſtaken, we will make uſe of the Propoſi<g ref="char:EOLhyphen"/>tions themſelves, who allow of but two ordinary Miniſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the Paſtor and Teacher.</p>
+            <pb n="12" facs="tcp:117064:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:117064:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p n="1">
+               <pb n="14" facs="tcp:117064:12"/>1. The gifts of the Teacher is, when he is more excelling in expoſition of Scriptures, in teaching ſound doctrine, and con<g ref="char:EOLhyphen"/>vincing gainſayers, then in application; then he hath the Teach<g ref="char:EOLhyphen"/>ers gift.</p>
+            <p n="2">2. He that is more excelling in Application then in Expoſi<g ref="char:EOLhyphen"/>tion, Teaching, &amp;c. he is the Paſtor: in this kinde every man will find gifts in himſelf for all the miniſtery, if he may profit by it.</p>
+            <p>Here lyeth the grand miſtake of all, Gods minde is of another thing then the world dreams of.</p>
+            <p n="1">1. The gifts onely are indeed the differing miniſteries of the Word themſelves, <hi>Epheſ.</hi> 4.8 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>ver.</hi> 11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Apoſtles, Prophets, Evangeliſts, Paſtors, Teachers.</p>
+            <p>
+               <hi>Rom.</hi> 12.6, 7, 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Having therefore gifts differing according to the grace given to us, whether propheſie, miniſtery, teaching, exhortation.</hi>
+            </p>
+            <p n="1">1. The text is clear, theſe gifts were not proper for one man to exerciſe: for the text ſaith, <hi>given divers gifts to us.</hi>
+            </p>
+            <p n="2">2. The Lord injoyns a waiting on each particular gift, whe<g ref="char:EOLhyphen"/>ther it be teaching or exhortation.</p>
+            <p n="3">3. Here are two things in the text expreſſed, and to be dili<g ref="char:EOLhyphen"/>gently weighed; the gift, and the grace.</p>
+            <p n="1">1. The gift which is the miniſtery we are called to by the Church.</p>
+            <p n="2">2. The gift is to be according to the grace which is given us of God.</p>
+            <p n="3">3. We are not to miniſter by the grace without the gift. 1 <hi>Tim.</hi> 4.14. <hi>Neglect not the gift that is in thee, which was given thee by proph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſie, with the laying on of the hands of the Presbytery.</hi>
+            </p>
+            <p n="1">1. The gift was given by laying on of hands, which was the Teachers office.</p>
+            <p n="2">2. Not by laying on of hands of extraordinary Elders onely, but of ordinary; and to be ordinarily uſed in the Church to the end forgiving the gift.</p>
+            <p n="3">3. It was given him (by propheſie) that is, by experience had of his parts in preaching before ordination.</p>
+            <p n="4">4. By laying on of hands they gave but one gift at once, which was either the Evangeliſt, Paſtor, or Teacher, after approbation had of his graces.</p>
+            <p n="5">5. To that gift thus given him he was to give himſelf unto
+<pb n="15" facs="tcp:117064:12"/> onely, and take care of, and not others.</p>
+            <p>
+               <hi>Object.</hi> It is ſaid, the gift in thee, and therefore grace is meant onely.</p>
+            <p n="1">1. <hi>Reſp.</hi> The word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with that <hi>Rom.</hi> 12.6. 1 <hi>Pet.</hi> 4.10.</p>
+            <p n="2">2. Before ordination the gift of the miniſtery is in the Church, after it is in the Miniſter, and in that ſence the Apoſtle ſaith it is in thee; and ſo <hi>Tertullian</hi> before: <hi>Si habes jus Sacerdotis in temetipſo.</hi>
+            </p>
+            <p>Now in my judgement the Reaſons why each miniſtery is cal<g ref="char:EOLhyphen"/>led a gift in the Scripture are two. 1. In reſpect of Chriſts giving them to the Church. <hi>Epheſ.</hi> 4.11. 2ly, The Church by election and Presbytery by ordination give it again to particular per<g ref="char:EOLhyphen"/>ſons, as a Church gift for the continuance of the publick mini<g ref="char:EOLhyphen"/>ſtery: which muſt be either the gift of Evangeliſt, Paſtor, or Tea<g ref="char:EOLhyphen"/>cher onely: the Lord gave no other for the Church; nor can the Church give but that Chriſt gave her to give.</p>
+            <p n="3">3 Scripture quoted in the Doctors Section: 1 <hi>Pet.</hi> 4.10. <hi>As every man hath received the gift, ſo miniſter the ſame one to another, as good ſte<g ref="char:EOLhyphen"/>wards of the manifold grace of God.</hi>
+            </p>
+            <p n="1">1. The grace of God is manifold.</p>
+            <p n="2">2. To this manifold grace are of the Lord appointed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſtewards of the Lords houſe proper to the publick miniſtery; who muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, fair.</p>
+            <p n="3">3. Theſe ſtewards come to have their ſtewardſhip by gift, they uſurp it not.</p>
+            <p n="4">4. This gift they receive from the Church by the hands of the Presbytery.</p>
+            <p n="5">5. One man hath but one gift to miniſter onely, which he is bound unto to miniſter and wait on.</p>
+            <p n="6">6. Gf that gift he hath received onely; he is ſteward as well as Miniſter.</p>
+            <p n="7">7. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> clearly confirms the combination of this miniſtery, in which every one (and ſo more then one) hath his proper gift, and is onely injoyned the miniſtery thereof.</p>
+            <p n="8">8. Moſt ſweetly one Miniſter muſt miniſter to another, not in teaching themſelves, but the miniſtery without the Church mi<g ref="char:EOLhyphen"/>niſters to the Doctor, the Doctor to the Paſtor, he to the Evange<g ref="char:EOLhyphen"/>liſt, that is, fitting people by degrees for perfection; the childe under the Doctor is to grow under that miniſtery to his youth, to be under the Paſtor, &amp;c.</p>
+            <p n="1">
+               <pb n="16" facs="tcp:117064:13"/>1. <hi>Ap.</hi> This cannot be done by a ſingle miniſtery (as now) this is no Church miniſtery.</p>
+            <p n="2">2. Nor by the Goſpel may a Miniſter uſe more then one gift.</p>
+            <p n="3">3. Nor can the Church give at one time to one man more then one to uſe at once in the Church.</p>
+            <p n="4">4. By grace a man may have ſome degree of fitneſſe for any part or all the miniſtery; but God allows no man to make uſe of more then one Church gift, and that gift muſt be onely that he hath received: <hi>The men that lived in the Apoſtles times had as much grace as we, yet exerciſed but one gift.</hi> 1 <hi>Cor.</hi> 12.4, 5, 6. <hi>Eph.</hi> 4.8.11, 12.</p>
+            <p>Compare 1 <hi>Cor.</hi> 12.4, 5, 6. <hi>Epheſ.</hi> 4.8.11, 12.</p>
+            <p n="1">1. Both begin with the gifts of the ſpirit, without which is no miniſtery to be exerciſed.</p>
+            <p n="2">2. The miniſtery that is divers (as the gifts are) which Chriſt gave to the Church.</p>
+            <p n="3">3. Theſe differings gifts and miniſtery, are given for divers operations to be wrought by them in the Church: which opera<g ref="char:EOLhyphen"/>tions are clearly ſet down what they are: <hi>Epheſ.</hi> 4.12. and may be particularly applyed thus.</p>
+            <p n="1">1. For edifying the body, which is the Doctor; called the edi<g ref="char:EOLhyphen"/>fying miniſtery.</p>
+            <p n="2">2. Unto the work of miniſtery, or the working miniſtery, by which the underſtandings of men are exerciſed to work in them an experimentall knowledge, and underſtanding of ſpirituall things: <hi>Hebr.</hi> 5.14. their ſences are exerciſed for the diſcerning things that differ.</p>
+            <p n="3">3. Is the Evangeliſts miniſtery, called the perfecting miniſtery; being for the perfecting of the Saints.</p>
+            <p>In concluſion, I beſeech you in the name of God, my Brethren of the Aſſembly, according to 1 <hi>Pet.</hi> 3.15. to give your reply here<g ref="char:EOLhyphen"/>to; &amp; I deſire you to do it as ſuch a thing ought to be done in the ſpirit of love and meekneſſe: and do it plainly, not equivocally. Not uſing your parts to keep under the truth by fighting them againſt God, as 2. <hi>Tim.</hi> 3.8. But let us all make it our honour to be overcome of tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, by which means we may come to ſerve God truly, and cauſe all contentions to fall quietly and quickly in the Land, which ſhould be the ſtudy of you, and me, and all. But for us to ſtrive againſt God, by ſetting up in Gods houſe what he hath not ſet up, will be quickly caſt down like another
+<pb n="17" facs="tcp:117064:13"/> Dagon. I farther commend theſe following heads to clear the truth; which being cleared, the other parts of the Propoſitions fall to the ground, and come to nothing.</p>
+            <p n="1">1. That all extraordinary officers are contained in Apoſtles and Prophets. 1 <hi>Cor.</hi> 12.28.</p>
+            <p n="2">2. That all extraordinary are contained in the word Teach<g ref="char:EOLhyphen"/>ers, which are the reſt of the officers mentioned, <hi>Epheſ</hi> 4.1.</p>
+            <p n="3">3. If all but Apoſtles and Prophets are Teachers, then all but they are ordinary Miniſters: for all Teachers of the Word are to be in the Church ordinarily to the end, and there is the ſame need of, and of them, as of the other. <hi>Epheſ.</hi> 4.13. Each Teacher fulfils his miniſtery by teaching one as well as the other, without which is no Church.</p>
+            <p n="4">4. If Antichriſt be not called the abomination of deſolation, becauſe he did make deſolate the wall, ſeparated the Church from the world, making them one, pulling down the diſtinct ſo<g ref="char:EOLhyphen"/>cieties of Saints, and there differing miniſtery making all one and common.</p>
+            <p n="5">5. Where the Church be not in that deſolate eſtate, untill the wall be rebuilded, the Saints manſions and differing miniſteries erected and ſet up in the Church again, which are not yet.</p>
+            <p n="6">6. The Apoſtles and Prophets in their names, gifts and works, made clear their extraordinarineſſe.</p>
+            <p n="7">7. The other miniſtery of Teachers had nothing extraordi<g ref="char:EOLhyphen"/>nary in names, gifts, call, or work they did in the Church, or were to do.</p>
+            <p>
+               <hi>Timothy</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n eminent Evangeliſt of an ordinary one, as ever was or ſhall be, had nothing extraordinary in him. 1. He had his knowledge by the ordinary way of hearing, as all have: 2 <hi>Tim.</hi> 1.13. The Epiſtles are written to him to direct him his life and miniſtery, as to other ordinary Miniſters. 2ly, He had his call as the leaſt ordinary Church Miniſter is to have it, and yet he is to be accounted an extraordinary officer: 1 <hi>Tim.</hi> 4.14. 3ly, Nor did he do any thing extraordinary in word or deed, or did he leave a line of his to the Church, which proves the Evangeliſt to be no more extraordinary then the Teacher is.</p>
+            <p>I cannot paſſe by <hi>Mark</hi> and <hi>Luke.</hi> 1. They were not Apoſtles, nor Prophets. 2ly, Nor were they in the writing their Hiſtories any of the Church Teachers. I would God would cleanſe our
+<pb n="18" facs="tcp:117064:14"/> eyes of this Popiſh miſt; this could not be an act of Teaching, though it conduceth to Teaching; they onely were Hiſtorians: ſuch an Act as that <hi>Timothy</hi> the Evangeliſt and Church Teacher never did yet as an Evangeliſt, as teaching onely, the giving denomination to all the ordinary miniſtery.</p>
+            <p n="8">8. The Evangeliſt ceaſeth not, unleſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any will preſume to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aintain, that Teachers ceaſe in the Church: if not, then no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore the Evangeliſt then the Paſtor.</p>
+            <p>The Goſpel Churches were by theſe ſet up and governed.</p>
+            <p n="1">1. (Jeruſalem) by <hi>James, Peter,</hi> and <hi>John: Galat.</hi> 2.9. (Rome) by <hi>Paul, Ariſtarchus, Marcus,</hi> and <hi>Jeſus,</hi> called <hi>Juſtus. Coloſ.</hi> 4.10. <hi>Paul</hi> an extraordinary officer may by the Goſpel pattern aſſume three helpers to himſelf. (Theſſalonica) <hi>Ep.</hi> 1. <hi>cap.</hi> 1. <hi>ver.</hi> 1. com<g ref="char:EOLhyphen"/>pared <hi>cap.</hi> 2. <hi>ver.</hi> 1. <hi>Paul, Silvanus, Timothy</hi> taught the Goſpel toge<g ref="char:EOLhyphen"/>ther there at firſt. (Epheſus) <hi>Paul, Timothy</hi> and <hi>Eraſtus</hi> miniſtred, <hi>Act.</hi> 19.22. compared with <hi>cap.</hi> 15.40. <hi>cap.</hi> 16.36. (Coloſſus) I ſuppoſe <hi>Paul</hi> planted not; he ſaith onely he heard of their faith, <hi>Cap.</hi> 1. <hi>ver.</hi> 7. he ſaies, <hi>Epaphroditus</hi> had taught them the Goſpel: <hi>Cap.</hi> 2.1. he ſpeaks as if he had not ſeen their face; nor doth the Hiſtory of Acts mention his being there, which would not have been left out, had he been there, <hi>Epaphroditus</hi> was Teacher, <hi>cap.</hi> 1.7. <hi>Oneſimus, cap</hi> 4.9. <hi>Archippus, cap.</hi> 4.17. (Philippi) was found<g ref="char:EOLhyphen"/>ed by <hi>Paul, Silas, Timothy, Ast.</hi> 16.12. compared with <hi>cap.</hi> 17.1.4. compared with <hi>Philip.</hi> 2.22. <hi>cap.</hi> 4.3. they have <hi>Clement</hi> when the Epiſtle was written, and other fellow-labourers of the Apo<g ref="char:EOLhyphen"/>ſtle with them.</p>
+            <p>Antioch, <hi>Act.</hi> 13.1. are left to teach when <hi>Barnabas</hi> and <hi>Saul</hi> were ſent forth, <hi>Simeon, Lucius, Manaen, Tit.</hi> 1.5. miniſtring Elders were to be ordained in every City: &amp; leſt this ſhould be thought onely proper to City Churches, <hi>Act.</hi> 14.23. they ordained Elders in every Church, not in Cities onely.</p>
+            <p>I dare boldly affirm, there is no precept nor pattern in all the Goſpel for a ſingle Church miniſtery; therfore I hope Magiſtrates and Miniſters will take heed what they do in ſetting it up in Gods houſe: I beleeve we ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll never ſee peace untill the way of God be ſet up, and wayes of error caſt down. The Lord therefore ſtir you up to quit you like men in the work of the Lord, and proſper ye. So prayeth a poore unworthy Goſpel Miniſter,</p>
+            <closer>
+               <signed>J. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
